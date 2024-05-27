@@ -1,7 +1,8 @@
 # dope math visualisation
 
-## previs
+## previews
+### mandelbrot set
 #### example 1
 ![1](preview/1.png)
 #### example 2
-![2](preview/2.png.png)
+![2](preview/2.png)
